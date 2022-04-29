@@ -2,6 +2,7 @@
 Colab Link : https://drive.google.com/drive/folders/1OmwLX9IwCAf5d4i7YLnIyjvfqBoMoRie?usp=sharing
 
 RDF-to-Text: Fine-tuning GPT2 with WebNLG Corpus
+
 This project contains 4 Google Colab Notebooks:
  * pre-process WebNLG Dataset - Part 1
  * fine-tune GPT2 language model with WebNLG Dataset. - Part 2
